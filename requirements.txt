@@ -1,0 +1,16 @@
+# langchain - AI
+langchain
+langchain-community
+langchain-openai
+langchain-milvus
+langchain-google-genai
+openai
+tiktoken
+rank_bm25
+# UI
+streamlit
+
+# core
+python-dotenv
+pypdf
+cryptography>=3.1
